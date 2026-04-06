@@ -126,6 +126,10 @@ in human language and determine sentiment polarity.</p>
   <li>Returning the predicted sentiment label</li>
 </ul>
 <p>This ensures consistency between training and inference, allowing accurate real-time predictions.</p>
+<h3>Sample Input & Output</h3>
+<p>The following example demonstrates how the model classifies user input:</p>
+<p>Input: This is most beautiful experience I had.<br>
+Sentiment: Positive</p>
 
 <h2>Conclusion</h2>
 <p>This project demonstrates how machine learning and NLP techniques can be applied to analyze textual data and extract meaningful insights.
