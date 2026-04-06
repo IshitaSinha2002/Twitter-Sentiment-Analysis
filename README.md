@@ -107,14 +107,14 @@ in human language and determine sentiment polarity.</p>
 <h2>Visualizations</h2>
 <h3>Sentiment Distribution</h3>
 <p>Shows the distribution of positive and negative samples in the dataset.</p>
-<img src="images/sentiment_distribution.png" width="600">
+<img src="https://github.com/IshitaSinha2002/Twitter-Sentiment-Analysis/blob/main/Sentiment%20Distribution.png" width: 500px; height: 400px; object-fit: cover;>
 <h3>Text Length Distribution</h3>
 <p>Illustrates variation in tweet lengths across the dataset.</p>
-<img src="images/text_length.png" width="600">
+<img src="https://github.com/IshitaSinha2002/Twitter-Sentiment-Analysis/blob/main/Text%20Distribution.png" width: 500px; height: 400px; object-fit: cover;>
 <h3>Important Words</h3>
 <p>Highlights words that strongly influence positive and negative predictions.</p>
-<img src="images/top_words.png" width="600">
-
+<img src="https://github.com/IshitaSinha2002/Twitter-Sentiment-Analysis/blob/main/Top%20Positive%20Words.png" width: 500px; height: 400px; object-fit: cover;>
+<img src="https://github.com/IshitaSinha2002/Twitter-Sentiment-Analysis/blob/main/Top%20Negative%20Words.png" width: 500px; height: 400px; object-fit: cover;>
 
 <h2>Prediction System</h2>
 <p>A prediction system was implemented to classify new input text into positive or negative sentiment.</p>
